@@ -1,5 +1,7 @@
 # Multimodality with Gemini Google Cloud Skills Boost Lab Video Solution 
 
+<img src="https://github.com/ashleysally00/Multimodality-with-Gemini-Lab/blob/main/yellow-robot.png" align="right" width="200" height="180">
+
 **Lab Schedule**: 1 Hour  
 **Credits**: 5  
 **Level**: Intermediate  

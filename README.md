@@ -5,7 +5,7 @@
 **Level**: Intermediate  
 **Lab ID**: GSP1210
 
-> **Note**: If you want to follow along with a video walkthrough of this lab being completed, [click here](https://www.cloudskillsboost.google/paths/183/course_templates/981/labs/514647).
+> **Note**: If you want to follow along with a Youtube video walkthrough of this lab being completed, [click here](https://youtu.be/B--keWQUh9g).
 
 Access the lab here: [Multimodality with Gemini Lab on Cloud Skills Boost](https://www.cloudskillsboost.google/paths/183/course_templates/981/labs/514647)
 ---
